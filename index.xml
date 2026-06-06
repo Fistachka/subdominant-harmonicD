@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>subdominant-harmonicd</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="stolbitsa" repo="subdominant"/>
   <readme>
-    <ru>e73d4d924d032df38a2982bd28096ed81aa018644e1b061d89fdadafad16e65a</ru>
-    <en>c4003ef0bb76ba2f983df41bfbe05ff060e8fdb5e1b4fd857eace3a441b461ca</en>
+    <ru>0c7d60b2584e6ff58a869520798f9fefc907a7c41e3f5d2be75c8f696c9968fa</ru>
+    <en>f2a330974c894cb70b4d877bd4f3f5dc717e5dcbcfb41b942bb2f188c70e72ea</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
