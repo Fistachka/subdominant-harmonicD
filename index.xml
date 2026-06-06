@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <level>
   <owner>Fistachka</owner>
-  <repo>subdominant-harmonicD</repo>
-  <version>v1.0.2</version>
+  <repo>subdominant-harmonicd</repo>
+  <version>v1.0.3</version>
   <next number="1" owner="stolbitsa" repo="subdominant"/>
   <readme>
-    <ru>c1b4bb0fdbb1e2a4f9bf261066ac39e517333afa70f762ef4f71ff4703f6a031</ru>
+    <ru>e73d4d924d032df38a2982bd28096ed81aa018644e1b061d89fdadafad16e65a</ru>
     <en>c4003ef0bb76ba2f983df41bfbe05ff060e8fdb5e1b4fd857eace3a441b461ca</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
